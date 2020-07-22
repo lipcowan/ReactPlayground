@@ -5,6 +5,7 @@ import ReactDOM from "react-dom"
 import "./index.css"
 //import Hello from './state-drills/HelloWorld';
 //import Bomb from './state-drills/Bomb';
-import Roulette from "./state-drills/RouletteGun"
+//import Roulette from "./state-drills/RouletteGun"
+import Acordion from "./state-drills/Accordion"
 
-ReactDOM.render(<Roulette />, document.getElementById("root"))
+ReactDOM.render(<Acordion />, document.getElementById("root"))
